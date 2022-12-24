@@ -1,4 +1,4 @@
-# wakuway
+# WAKUWAY
 
 Adalah platform yg dibuat menggunakan Laravel FW, untuk Broadcast WA Kepentingan Pemasaran secara Sederhana
 Beberapa fitur yg akan dibuat dan Tersedia
